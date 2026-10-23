@@ -1,5 +1,3 @@
-## Gabriel
-
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Olá,%20sou%20o%20Gabriel%20Borba!%20&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%" />
