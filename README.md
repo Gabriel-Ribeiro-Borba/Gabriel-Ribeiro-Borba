@@ -9,9 +9,9 @@
 
 <!-- SUBTÍTULO / BIO -->
 <div align="center">
-  <h3>⚡ <i>"Transformando ideias e linhas de código em soluções reais."</i> ⚡</h3>
+  <h3> <i>"Transformando ideias e linhas de código em soluções reais."</i> </h3>
   <p>🎓 <b>Estudante de Análise e Desenvolvimento de Sistemas</b> @ IFSP</p>
-  <p>💡 Apaixonado por desenvolvimento Full Stack, dados e arquitetura de software</p>
+  <p>💡 Entusiasta por desenvolvimento Full Stack, dados, IA e arquitetura de software</p>
 </div>
 
 <br>
@@ -89,10 +89,10 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-ribeiroborba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:borba.gribeiro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
