@@ -69,7 +69,7 @@
 
 ---
 
-### 🐍 Grafo de Contribuições (Snake Game)
+### 🐍 Grafo de Contribuições 
 
 <div align="center">
   <picture>
